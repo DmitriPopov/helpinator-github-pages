@@ -2,7 +2,36 @@
 
 # Export GitHub pages from Helpinator
 
-Now launch Helpinator and click "GitHub" icon on the main tool bar.
+Now launch Helpinator and click lightning bolt icon on the main tool bar.
+
+
+"Batch compile" dialog appears. 
+
+
+
+![exportgithubpagesfromhelpinator.PNG](images/exportgithubpagesfromhelpinator.PNG "exportgithubpagesfromhelpinator.PNG")
+
+Untitled
+
+
+
+Browse the list of the left to "Github Flavored Markdown" and double-click it to add a new batch item.
+
+
+Set "Save to" path to the docs folder in our cloned repo folder. Click "Settings".
+
+
+![githubsettings.PNG](images/githubsettings.PNG "githubsettings.PNG")
+
+Untitled
+
+
+
+Select "Prepare GitHub Pages source files", click "OK".
+
+
+Now click the lightning bolt icon and Helpinator will generate all required project files.
+
 
 
 

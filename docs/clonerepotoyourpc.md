@@ -6,7 +6,8 @@ Now we need to clone repository to our local PC. Run command prompt, change the 
 
 
 
-```
+```nohighlight
+git clone https://github.com/DmitriPopov/helpinator-github-pages.git
 ```
 
 

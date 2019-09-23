@@ -9,7 +9,10 @@ Open command prompt again, browse to the "docs" folder inside the cloned reposit
 
 
 
-```
+```nohighlight
+git add --all
+git commit -m "First version"
+git push
 ```
 
 [Set up GitHub pages --&gt;](setupgithubpages "Next")
