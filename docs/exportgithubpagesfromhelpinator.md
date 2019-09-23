@@ -11,7 +11,7 @@ Now launch Helpinator and click lightning bolt icon on the main tool bar.
 
 ![exportgithubpagesfromhelpinator.PNG](images/exportgithubpagesfromhelpinator.PNG "exportgithubpagesfromhelpinator.PNG")
 
-Untitled
+Batch compile
 
 
 
@@ -23,7 +23,7 @@ Set "Save to" path to the docs folder in our cloned repo folder. Click "Settings
 
 ![githubsettings.PNG](images/githubsettings.PNG "githubsettings.PNG")
 
-Untitled
+GitHub export settings
 
 
 
